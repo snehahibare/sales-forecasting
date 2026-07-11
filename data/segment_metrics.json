@@ -1,0 +1,34 @@
+{
+  "Overall": {
+    "MAE": 18605.7,
+    "RMSE": 20520.5
+  },
+  "Furniture": {
+    "MAE": 5564.0,
+    "RMSE": 6333.1
+  },
+  "Technology": {
+    "MAE": 11225.8,
+    "RMSE": 14457.5
+  },
+  "Office Supplies": {
+    "MAE": 2119.5,
+    "RMSE": 2606.7
+  },
+  "West": {
+    "MAE": 2344.2,
+    "RMSE": 2833.9
+  },
+  "East": {
+    "MAE": 14346.8,
+    "RMSE": 14689.2
+  },
+  "Central": {
+    "MAE": 5232.9,
+    "RMSE": 7678.4
+  },
+  "South": {
+    "MAE": 10519.3,
+    "RMSE": 12103.5
+  }
+}

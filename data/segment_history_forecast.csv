@@ -1,0 +1,409 @@
+Segment,Month,Sales,Type
+Overall,2015-01-01,14205.707,Actual
+Overall,2015-02-01,4519.892,Actual
+Overall,2015-03-01,55205.797,Actual
+Overall,2015-04-01,27906.855,Actual
+Overall,2015-05-01,23644.303,Actual
+Overall,2015-06-01,34322.9356,Actual
+Overall,2015-07-01,33781.543,Actual
+Overall,2015-08-01,27117.5365,Actual
+Overall,2015-09-01,81623.5268,Actual
+Overall,2015-10-01,31453.393,Actual
+Overall,2015-11-01,77907.66070000001,Actual
+Overall,2015-12-01,68167.0585,Actual
+Overall,2016-01-01,18066.9576,Actual
+Overall,2016-02-01,11951.411,Actual
+Overall,2016-03-01,32339.3184,Actual
+Overall,2016-04-01,34154.4685,Actual
+Overall,2016-05-01,29959.5305,Actual
+Overall,2016-06-01,23599.374,Actual
+Overall,2016-07-01,28608.259000000002,Actual
+Overall,2016-08-01,36818.3422,Actual
+Overall,2016-09-01,63133.606,Actual
+Overall,2016-10-01,31011.7375,Actual
+Overall,2016-11-01,75249.3995,Actual
+Overall,2016-12-01,74543.6012,Actual
+Overall,2017-01-01,18542.490999999998,Actual
+Overall,2017-02-01,22978.815000000002,Actual
+Overall,2017-03-01,51165.059,Actual
+Overall,2017-04-01,38679.767,Actual
+Overall,2017-05-01,56656.908,Actual
+Overall,2017-06-01,39724.486,Actual
+Overall,2017-07-01,38320.783,Actual
+Overall,2017-08-01,30542.2003,Actual
+Overall,2017-09-01,69193.3909,Actual
+Overall,2017-10-01,59583.033,Actual
+Overall,2017-11-01,79066.4958,Actual
+Overall,2017-12-01,95739.121,Actual
+Overall,2018-01-01,43476.474,Actual
+Overall,2018-02-01,19920.9974,Actual
+Overall,2018-03-01,58863.4128,Actual
+Overall,2018-04-01,35541.9101,Actual
+Overall,2018-05-01,43825.9822,Actual
+Overall,2018-06-01,48190.7277,Actual
+Overall,2018-07-01,44825.104,Actual
+Overall,2018-08-01,62837.848,Actual
+Overall,2018-09-01,86152.888,Actual
+Overall,2018-10-01,77448.1312,Actual
+Overall,2018-11-01,117938.155,Actual
+Overall,2018-12-01,83030.3888,Actual
+Overall,2019-01-01,45153.34375,Forecast
+Overall,2019-02-01,24240.85546875,Forecast
+Overall,2019-03-01,56491.7578125,Forecast
+Furniture,2015-01-01,6217.277,Actual
+Furniture,2015-02-01,1839.658,Actual
+Furniture,2015-03-01,14243.368,Actual
+Furniture,2015-04-01,7944.8369999999995,Actual
+Furniture,2015-05-01,6912.787,Actual
+Furniture,2015-06-01,13144.5816,Actual
+Furniture,2015-07-01,10821.051,Actual
+Furniture,2015-08-01,7125.2105,Actual
+Furniture,2015-09-01,23816.4808,Actual
+Furniture,2015-10-01,12304.247,Actual
+Furniture,2015-11-01,21471.0407,Actual
+Furniture,2015-12-01,30637.3425,Actual
+Furniture,2016-01-01,11739.9416,Actual
+Furniture,2016-02-01,3134.374,Actual
+Furniture,2016-03-01,8722.6374,Actual
+Furniture,2016-04-01,10475.6985,Actual
+Furniture,2016-05-01,9374.950499999999,Actual
+Furniture,2016-06-01,7540.971,Actual
+Furniture,2016-07-01,13667.039999999999,Actual
+Furniture,2016-08-01,9638.5922,Actual
+Furniture,2016-09-01,25085.423,Actual
+Furniture,2016-10-01,11664.4875,Actual
+Furniture,2016-11-01,30197.500500000002,Actual
+Furniture,2016-12-01,22812.2512,Actual
+Furniture,2017-01-01,7622.743,Actual
+Furniture,2017-02-01,3925.551,Actual
+Furniture,2017-03-01,12272.662,Actual
+Furniture,2017-04-01,13212.09,Actual
+Furniture,2017-05-01,14892.575,Actual
+Furniture,2017-06-01,12450.524,Actual
+Furniture,2017-07-01,12569.759,Actual
+Furniture,2017-08-01,11910.0583,Actual
+Furniture,2017-09-01,26755.4749,Actual
+Furniture,2017-10-01,11813.009,Actual
+Furniture,2017-11-01,31783.6288,Actual
+Furniture,2017-12-01,36604.965,Actual
+Furniture,2018-01-01,5930.162,Actual
+Furniture,2018-02-01,6774.3774,Actual
+Furniture,2018-03-01,10893.4448,Actual
+Furniture,2018-04-01,9065.9581,Actual
+Furniture,2018-05-01,16957.5582,Actual
+Furniture,2018-06-01,17032.3867,Actual
+Furniture,2018-07-01,11375.822,Actual
+Furniture,2018-08-01,15419.122,Actual
+Furniture,2018-09-01,28516.706000000002,Actual
+Furniture,2018-10-01,21884.0682,Actual
+Furniture,2018-11-01,37056.715000000004,Actual
+Furniture,2018-12-01,31407.466800000002,Actual
+Furniture,2019-01-01,6552.0859375,Forecast
+Furniture,2019-02-01,6672.4111328125,Forecast
+Furniture,2019-03-01,12164.7392578125,Forecast
+Technology,2015-01-01,3143.29,Actual
+Technology,2015-02-01,1608.51,Actual
+Technology,2015-03-01,32359.974000000002,Actual
+Technology,2015-04-01,8973.144,Actual
+Technology,2015-05-01,9599.876,Actual
+Technology,2015-06-01,8435.965,Actual
+Technology,2015-07-01,7839.284,Actual
+Technology,2015-08-01,8937.05,Actual
+Technology,2015-09-01,30383.748,Actual
+Technology,2015-10-01,11938.018,Actual
+Technology,2015-11-01,30073.424,Actual
+Technology,2015-12-01,20573.224000000002,Actual
+Technology,2016-01-01,4518.236,Actual
+Technology,2016-02-01,3448.9700000000003,Actual
+Technology,2016-03-01,10143.942,Actual
+Technology,2016-04-01,11160.952000000001,Actual
+Technology,2016-05-01,11643.0,Actual
+Technology,2016-06-01,6435.366,Actual
+Technology,2016-07-01,10234.976,Actual
+Technology,2016-08-01,15444.642,Actual
+Technology,2016-09-01,19017.128,Actual
+Technology,2016-10-01,10704.89,Actual
+Technology,2016-11-01,23873.601,Actual
+Technology,2016-12-01,35632.028,Actual
+Technology,2017-01-01,5620.066,Actual
+Technology,2017-02-01,12258.914,Actual
+Technology,2017-03-01,21567.852,Actual
+Technology,2017-04-01,14890.502,Actual
+Technology,2017-05-01,28832.691,Actual
+Technology,2017-06-01,16372.152,Actual
+Technology,2017-07-01,12847.2,Actual
+Technology,2017-08-01,9672.402,Actual
+Technology,2017-09-01,19424.514,Actual
+Technology,2017-10-01,31533.374,Actual
+Technology,2017-11-01,27141.059,Actual
+Technology,2017-12-01,21801.218,Actual
+Technology,2018-01-01,16493.333,Actual
+Technology,2018-02-01,5768.448,Actual
+Technology,2018-03-01,33428.622,Actual
+Technology,2018-04-01,12261.005000000001,Actual
+Technology,2018-05-01,13374.62,Actual
+Technology,2018-06-01,16937.24,Actual
+Technology,2018-07-01,23209.926,Actual
+Technology,2018-08-01,17619.162,Actual
+Technology,2018-09-01,26028.659,Actual
+Technology,2018-10-01,32855.663,Actual
+Technology,2018-11-01,49409.103,Actual
+Technology,2018-12-01,21984.91,Actual
+Technology,2019-01-01,15642.970703125,Forecast
+Technology,2019-02-01,16255.166015625,Forecast
+Technology,2019-03-01,19203.037109375,Forecast
+Office Supplies,2015-01-01,4845.14,Actual
+Office Supplies,2015-02-01,1071.724,Actual
+Office Supplies,2015-03-01,8602.455,Actual
+Office Supplies,2015-04-01,10988.874,Actual
+Office Supplies,2015-05-01,7131.639999999999,Actual
+Office Supplies,2015-06-01,12742.389,Actual
+Office Supplies,2015-07-01,15121.208,Actual
+Office Supplies,2015-08-01,11055.276,Actual
+Office Supplies,2015-09-01,27423.298000000003,Actual
+Office Supplies,2015-10-01,7211.128,Actual
+Office Supplies,2015-11-01,26363.196,Actual
+Office Supplies,2015-12-01,16956.492,Actual
+Office Supplies,2016-01-01,1808.78,Actual
+Office Supplies,2016-02-01,5368.067,Actual
+Office Supplies,2016-03-01,13472.739,Actual
+Office Supplies,2016-04-01,12517.818,Actual
+Office Supplies,2016-05-01,8941.58,Actual
+Office Supplies,2016-06-01,9623.037,Actual
+Office Supplies,2016-07-01,4706.243,Actual
+Office Supplies,2016-08-01,11735.108,Actual
+Office Supplies,2016-09-01,19031.055,Actual
+Office Supplies,2016-10-01,8642.36,Actual
+Office Supplies,2016-11-01,21178.298,Actual
+Office Supplies,2016-12-01,16099.322,Actual
+Office Supplies,2017-01-01,5299.682,Actual
+Office Supplies,2017-02-01,6794.349999999999,Actual
+Office Supplies,2017-03-01,17324.545,Actual
+Office Supplies,2017-04-01,10577.175,Actual
+Office Supplies,2017-05-01,12931.642,Actual
+Office Supplies,2017-06-01,10901.81,Actual
+Office Supplies,2017-07-01,12903.824,Actual
+Office Supplies,2017-08-01,8959.74,Actual
+Office Supplies,2017-09-01,23013.402,Actual
+Office Supplies,2017-10-01,16236.65,Actual
+Office Supplies,2017-11-01,20141.808,Actual
+Office Supplies,2017-12-01,37332.938,Actual
+Office Supplies,2018-01-01,21052.979,Actual
+Office Supplies,2018-02-01,7378.172,Actual
+Office Supplies,2018-03-01,14541.346,Actual
+Office Supplies,2018-04-01,14214.947,Actual
+Office Supplies,2018-05-01,13493.804,Actual
+Office Supplies,2018-06-01,14221.101,Actual
+Office Supplies,2018-07-01,10239.356,Actual
+Office Supplies,2018-08-01,29799.564,Actual
+Office Supplies,2018-09-01,31607.523,Actual
+Office Supplies,2018-10-01,22708.4,Actual
+Office Supplies,2018-11-01,31472.337,Actual
+Office Supplies,2018-12-01,29638.012,Actual
+Office Supplies,2019-01-01,16561.90234375,Forecast
+Office Supplies,2019-02-01,11167.4267578125,Forecast
+Office Supplies,2019-03-01,20194.07421875,Forecast
+West,2015-01-01,2938.723,Actual
+West,2015-02-01,1057.956,Actual
+West,2015-03-01,11008.898,Actual
+West,2015-04-01,9070.357,Actual
+West,2015-05-01,6570.438,Actual
+West,2015-06-01,9629.422,Actual
+West,2015-07-01,21808.553,Actual
+West,2015-08-01,12742.949,Actual
+West,2015-09-01,14900.537,Actual
+West,2015-10-01,8728.758,Actual
+West,2015-11-01,23044.9365,Actual
+West,2015-12-01,24406.4355,Actual
+West,2016-01-01,6026.736000000001,Actual
+West,2016-02-01,1804.1779999999999,Actual
+West,2016-03-01,12268.467999999999,Actual
+West,2016-04-01,9015.284,Actual
+West,2016-05-01,12042.6555,Actual
+West,2016-06-01,5088.95,Actual
+West,2016-07-01,7089.826,Actual
+West,2016-08-01,12548.359,Actual
+West,2016-09-01,12562.572,Actual
+West,2016-10-01,13623.493999999999,Actual
+West,2016-11-01,13825.732,Actual
+West,2016-12-01,27813.313,Actual
+West,2017-01-01,3657.822,Actual
+West,2017-02-01,3100.162,Actual
+West,2017-03-01,17559.031,Actual
+West,2017-04-01,10482.009,Actual
+West,2017-05-01,10694.247,Actual
+West,2017-06-01,18527.007,Actual
+West,2017-07-01,15280.883,Actual
+West,2017-08-01,11817.852,Actual
+West,2017-09-01,19701.3185,Actual
+West,2017-10-01,15624.694,Actual
+West,2017-11-01,23923.005,Actual
+West,2017-12-01,32103.198,Actual
+West,2018-01-01,12081.844000000001,Actual
+West,2018-02-01,9434.781,Actual
+West,2018-03-01,29024.097999999998,Actual
+West,2018-04-01,13459.753,Actual
+West,2018-05-01,15365.986,Actual
+West,2018-06-01,15844.9395,Actual
+West,2018-07-01,20767.539,Actual
+West,2018-08-01,25471.374,Actual
+West,2018-09-01,27107.217,Actual
+West,2018-10-01,21203.092,Actual
+West,2018-11-01,28718.207,Actual
+West,2018-12-01,29652.095,Actual
+West,2019-01-01,10633.7724609375,Forecast
+West,2019-02-01,11347.6142578125,Forecast
+West,2019-03-01,15026.2880859375,Forecast
+East,2015-01-01,436.174,Actual
+East,2015-02-01,199.77599999999998,Actual
+East,2015-03-01,5458.176,Actual
+East,2015-04-01,3054.906,Actual
+East,2015-05-01,7250.103,Actual
+East,2015-06-01,10759.156,Actual
+East,2015-07-01,3403.296,Actual
+East,2015-08-01,4582.447999999999,Actual
+East,2015-09-01,25292.789,Actual
+East,2015-10-01,8945.124,Actual
+East,2015-11-01,33573.195,Actual
+East,2015-12-01,24697.676,Actual
+East,2016-01-01,4563.876,Actual
+East,2016-02-01,6463.133,Actual
+East,2016-03-01,3467.537,Actual
+East,2016-04-01,7778.796,Actual
+East,2016-05-01,7309.268,Actual
+East,2016-06-01,7442.988,Actual
+East,2016-07-01,11715.598,Actual
+East,2016-08-01,9383.782000000001,Actual
+East,2016-09-01,29401.006999999998,Actual
+East,2016-10-01,6302.03,Actual
+East,2016-11-01,34724.761,Actual
+East,2016-12-01,24672.407,Actual
+East,2017-01-01,4860.0869999999995,Actual
+East,2017-02-01,3149.821,Actual
+East,2017-03-01,16764.857,Actual
+East,2017-04-01,17769.696,Actual
+East,2017-05-01,22258.463,Actual
+East,2017-06-01,11188.446,Actual
+East,2017-07-01,8524.197,Actual
+East,2017-08-01,8691.783,Actual
+East,2017-09-01,20198.524,Actual
+East,2017-10-01,15065.465,Actual
+East,2017-11-01,22636.619,Actual
+East,2017-12-01,27403.58,Actual
+East,2018-01-01,5383.284,Actual
+East,2018-02-01,4968.522,Actual
+East,2018-03-01,7691.016,Actual
+East,2018-04-01,9251.28,Actual
+East,2018-05-01,6119.369,Actual
+East,2018-06-01,14917.427,Actual
+East,2018-07-01,12321.823,Actual
+East,2018-08-01,20741.946,Actual
+East,2018-09-01,31520.154,Actual
+East,2018-10-01,32295.24,Actual
+East,2018-11-01,45633.638999999996,Actual
+East,2018-12-01,19285.486,Actual
+East,2019-01-01,4768.17236328125,Forecast
+East,2019-02-01,5623.92529296875,Forecast
+East,2019-03-01,11019.6142578125,Forecast
+Central,2015-01-01,1533.966,Actual
+Central,2015-02-01,1233.174,Actual
+Central,2015-03-01,5827.602,Actual
+Central,2015-04-01,3712.34,Actual
+Central,2015-05-01,4044.522,Actual
+Central,2015-06-01,9374.1066,Actual
+Central,2015-07-01,6740.574,Actual
+Central,2015-08-01,3022.183,Actual
+Central,2015-09-01,34254.8658,Actual
+Central,2015-10-01,8965.757,Actual
+Central,2015-11-01,13904.4562,Actual
+Central,2015-12-01,10306.974,Actual
+Central,2016-01-01,2510.5116000000003,Actual
+Central,2016-02-01,2527.586,Actual
+Central,2016-03-01,6281.2184,Actual
+Central,2016-04-01,11642.055,Actual
+Central,2016-05-01,8623.903,Actual
+Central,2016-06-01,3713.187,Actual
+Central,2016-07-01,7605.567,Actual
+Central,2016-08-01,9301.4512,Actual
+Central,2016-09-01,7578.52,Actual
+Central,2016-10-01,7000.486,Actual
+Central,2016-11-01,18903.086,Actual
+Central,2016-12-01,16737.6012,Actual
+Central,2017-01-01,5942.156,Actual
+Central,2017-02-01,1115.728,Actual
+Central,2017-03-01,12602.997000000001,Actual
+Central,2017-04-01,7462.352,Actual
+Central,2017-05-01,11743.965,Actual
+Central,2017-06-01,6553.148,Actual
+Central,2017-07-01,7953.284000000001,Actual
+Central,2017-08-01,6982.5548,Actual
+Central,2017-09-01,17270.0974,Actual
+Central,2017-10-01,25801.960000000003,Actual
+Central,2017-11-01,16910.3168,Actual
+Central,2017-12-01,25335.321,Actual
+Central,2018-01-01,21195.756,Actual
+Central,2018-02-01,3334.8224,Actual
+Central,2018-03-01,15504.5788,Actual
+Central,2018-04-01,3383.1236,Actual
+Central,2018-05-01,11396.8862,Actual
+Central,2018-06-01,8494.4412,Actual
+Central,2018-07-01,8870.844000000001,Actual
+Central,2018-08-01,6252.994,Actual
+Central,2018-09-01,17342.997,Actual
+Central,2018-10-01,11812.8482,Actual
+Central,2018-11-01,15154.978000000001,Actual
+Central,2018-12-01,18883.0708,Actual
+Central,2019-01-01,3184.7353515625,Forecast
+Central,2019-02-01,3383.896728515625,Forecast
+Central,2019-03-01,8316.77734375,Forecast
+South,2015-01-01,9296.844000000001,Actual
+South,2015-02-01,2028.986,Actual
+South,2015-03-01,32911.121,Actual
+South,2015-04-01,12069.252,Actual
+South,2015-05-01,5779.24,Actual
+South,2015-06-01,4560.251,Actual
+South,2015-07-01,1829.1200000000001,Actual
+South,2015-08-01,6769.9565,Actual
+South,2015-09-01,7175.335,Actual
+South,2015-10-01,4813.754,Actual
+South,2015-11-01,7385.072999999999,Actual
+South,2015-12-01,8755.973,Actual
+South,2016-01-01,4965.834,Actual
+South,2016-02-01,1156.5140000000001,Actual
+South,2016-03-01,10322.095,Actual
+South,2016-04-01,5718.3335,Actual
+South,2016-05-01,1983.704,Actual
+South,2016-06-01,7354.249,Actual
+South,2016-07-01,2197.268,Actual
+South,2016-08-01,5584.75,Actual
+South,2016-09-01,13591.507,Actual
+South,2016-10-01,4085.7275,Actual
+South,2016-11-01,7795.8205,Actual
+South,2016-12-01,5320.28,Actual
+South,2017-01-01,4082.426,Actual
+South,2017-02-01,15613.104000000001,Actual
+South,2017-03-01,4238.174,Actual
+South,2017-04-01,2965.71,Actual
+South,2017-05-01,11960.233,Actual
+South,2017-06-01,3455.885,Actual
+South,2017-07-01,6562.419,Actual
+South,2017-08-01,3050.0105,Actual
+South,2017-09-01,12023.451,Actual
+South,2017-10-01,3090.914,Actual
+South,2017-11-01,15596.555,Actual
+South,2017-12-01,10897.022,Actual
+South,2018-01-01,4815.59,Actual
+South,2018-02-01,2182.872,Actual
+South,2018-03-01,6643.72,Actual
+South,2018-04-01,9447.753499999999,Actual
+South,2018-05-01,10943.741,Actual
+South,2018-06-01,8933.92,Actual
+South,2018-07-01,2864.898,Actual
+South,2018-08-01,10371.534,Actual
+South,2018-09-01,10182.52,Actual
+South,2018-10-01,12136.951000000001,Actual
+South,2018-11-01,28431.331,Actual
+South,2018-12-01,15209.737,Actual
+South,2019-01-01,6665.80810546875,Forecast
+South,2019-02-01,3505.6875,Forecast
+South,2019-03-01,10518.9248046875,Forecast
